@@ -1,0 +1,4 @@
+WIFI_SSID = ""
+WIFI_PASSWORD = ""
+UDP_SERVER_IP = ""
+
